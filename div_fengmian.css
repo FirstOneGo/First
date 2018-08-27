@@ -6,11 +6,16 @@ body{
 	font-family: "微软雅黑";
 }
 .top{
+	position:absolute;
+	top:10px;
+	left:10px;
+	right:10px;
+	bottom:10px;
 	height: 800px;
 	background: url(./image2.jpg) no-repeat 0px;
 	position: center;
 	size: 100%;
-	margin: 0px 0px 0px 0px;
+	
 	/*background-attachment: scroll;*/
 }
 .bottom{
