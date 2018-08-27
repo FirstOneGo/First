@@ -1,0 +1,55 @@
+body{
+	font-family: "微软雅黑";
+	margin:0px 0px;
+	padding: 0px 0px;
+}
+.top{
+	height: 850px;
+	background:url(./images/image3.jpg) no-repeat 0px;
+	position: center;
+	size: 100%;
+	margin: 0px 0px;
+	padding: 0px 0px;
+}
+.div1{
+		height: 300px;
+		background:url(./images/image3.jpg) no-repeat 0px;
+		padding-left: 800px; 
+		padding-top: 40px; 
+		font-weight: bold;
+		font-size:80px;
+}
+.div2{
+	height: 560px;
+	background-color: black;
+	margin: 0px 0px 0px 0px;
+}
+.bottom{
+	height: 170px;
+	background-color:#03080C;
+	padding-left: 830px; 
+	padding-top: 20px; 
+	font-weight: bold;
+	font-size:40px;
+}
+.hp{
+	color: white;
+	font-size: 30px;
+
+}
+
+.p{
+	color: white;
+	font-size: 20px;
+}
+.ul_next{
+	list-style-type: none;
+}
+.chaolianjie{     /*点击前的颜色*/
+	text-decoration:none;
+	color: white;
+}
+.chaolianjie:hover{  /*点击后的颜色*/
+	text-decoration:none;
+	color: red;
+}

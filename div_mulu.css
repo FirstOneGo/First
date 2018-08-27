@@ -1,0 +1,32 @@
+body{
+	text-align: center;
+	font-family: "微软雅黑";
+}
+.div1{
+	height: 900px;
+	background:url(./images/image3.jpg) no-repeat 0px;
+	position: center;
+	size: 100%;
+	margin: 0px 0px;
+	padding: 0px 0px;
+}
+.div2{
+	height: 900px;
+	margin: 0px 1300px 0px 0px;
+	background-color: #1B1C21;
+}
+.top{
+	list-style-type: none;
+}
+.bottom{
+	font-size: 20px;
+	list-style-type: none;
+}
+.chaolianjie{     /*点击前的颜色*/
+	text-decoration:none;
+	color: white;
+}
+.chaolianjie:hover{  /*点击后的颜色*/
+	text-decoration:none;
+	color: red;
+}

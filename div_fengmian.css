@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: "微软雅黑";
+}
+.top{
+	height: 800px;
+	background: url(./images/image2.jpg) no-repeat 0px;
+	position: center;
+	size: 100%;
+	margin: 0px 0px 0px 0px;
+	/*background-attachment: scroll;*/
+}
+.bottom{
+	background-color: #141414;
+	size: 100%;
+	height: 200px;
+	position: relative;
+}
+.fengmian_next{
+	padding-left: 920px; 
+	padding-top: 20px; 
+	font-weight: bold;
+	font-size:50px;
+
+}
+.li_next{
+	list-style-type: none;
+}
+.chaolianjie{
+	text-decoration:none;
+	color: white;
+}
+.chaolianjie:hover{
+	text-decoration:none;
+	color: red;
+}
+
