@@ -18,7 +18,7 @@ body{
 		padding-top: 40px; 
 		font-weight: bold;
 		font-size:80px;
-		text-align:center:
+		text-align:center;
 }
 .div2{
 	height: 560px;
@@ -29,10 +29,10 @@ body{
 	height: 170px;
 	background-color:#03080C;
 /* 	padding-left: 830px;  */
-	padding-top: 20px; 
+	padding-top: 10px; 
 	font-weight: bold;
 	font-size:40px;
-	text-align:center:
+	text-align:center;
 }
 .hp{
 	color: white;
