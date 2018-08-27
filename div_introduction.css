@@ -4,7 +4,7 @@ body{
 }
 .top{
 	height: 850px;
-	background:url(./images/image3.jpg) no-repeat 0px;
+	background:url(./image3.jpg) no-repeat 0px;
 	position: center;
 	size: 100%;
 	margin: 0px 0px;
@@ -12,7 +12,7 @@ body{
 }
 .div1{
 	height: 300px;
-	background: url(./images/image4.png) no-repeat 70px 10px;
+	background: url(./image4.png) no-repeat 70px 10px;
 }
 .div2{
 	height: 600px;
