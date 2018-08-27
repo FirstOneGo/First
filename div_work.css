@@ -27,10 +27,10 @@ body{
 .bottom{
 	height: 170px;
 	background-color:#03080C;
-	padding-left: 830px; 
-	padding-top: 20px; 
+	padding-top: 10px; 
 	font-weight: bold;
 	font-size:40px;
+	text-align:center;
 }
 .hp{
 	color: white;
