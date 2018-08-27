@@ -21,6 +21,9 @@ body{
 .bottom{
 	background-color: #141414;
 	size: 100%;
+	position:absolute;
+	top:800px;
+	left:0px;
 	height: 200px;
 
 }
