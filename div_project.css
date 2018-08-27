@@ -14,10 +14,11 @@ body{
 .div1{
 		height: 300px;
 		background:url(./image3.jpg) no-repeat 0px;
-		padding-left: 800px; 
+/* 		padding-left: 800px;  */
 		padding-top: 40px; 
 		font-weight: bold;
 		font-size:80px;
+		text-align:center:
 }
 .div2{
 	height: 560px;
@@ -27,10 +28,11 @@ body{
 .bottom{
 	height: 170px;
 	background-color:#03080C;
-	padding-left: 830px; 
+/* 	padding-left: 830px;  */
 	padding-top: 20px; 
 	font-weight: bold;
 	font-size:40px;
+	text-align:center:
 }
 .hp{
 	color: white;
